@@ -4,7 +4,8 @@
 
 ## 预览
 
-（截图待补）
+<img width="850" height="111" alt="图片" src="https://github.com/user-attachments/assets/5de6b14b-4fdd-48ea-8a29-a13eaadc3db6" />
+
 
 ## 安装
 
